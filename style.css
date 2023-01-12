@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+
+button {
+    background-color: rgb(131, 235, 127);
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 11px;
+
+}
+
+#calculator1 {
+    background-color: rgb(131, 235, 127);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+}
+
+#calculator2 {
+    background-color: rgb(131, 235, 127);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+}
+
+#calculator3 {
+    background-color: rgb(131, 235, 127);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+}
+
+#calculator4 {
+    background-color: rgb(131, 235, 127);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+}
